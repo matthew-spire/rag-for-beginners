@@ -1,0 +1,18 @@
+# Environment
+.env
+.venv
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+*.egg-info/
+build/
+dist/
+wheels/
+
+# Tool caches
+.ruff_cache/
+
+# Artifacts
+db/
+docs/
